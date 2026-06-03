@@ -1,0 +1,3 @@
+Model,Validation Accuracy,Test Accuracy,Key Observation
+Baseline LSTM,0.899,0.889,Better temporal separation
+CNN-LSTM,0.913,0.885,Higher validation accuracy but more confusion between static and dynamic activities
